@@ -1,0 +1,6 @@
+﻿  SIAOD_3.cpp
+C:\Users\Fakyring\source\repos\SIAOD_2\SIAOD_3\SIAOD_3\SIAOD_3.cpp(115,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Fakyring\source\repos\SIAOD_2\SIAOD_3\SIAOD_3\SIAOD_3.cpp(64): warning C4715: getMostLeft: значение возвращается не при всех путях выполнения
+C:\Users\Fakyring\source\repos\SIAOD_2\SIAOD_3\SIAOD_3\SIAOD_3.cpp(84): warning C4715: findValue: значение возвращается не при всех путях выполнения
+C:\Users\Fakyring\source\repos\SIAOD_2\SIAOD_3\SIAOD_3\SIAOD_3.cpp(94): warning C4715: getMaxValue: значение возвращается не при всех путях выполнения
+  SIAOD_3.vcxproj -> C:\Users\Fakyring\source\repos\SIAOD_2\SIAOD_3\x64\Debug\SIAOD_3.exe
